@@ -6,16 +6,11 @@ Interactive web showcase for eyewear with a navigation bar, scrolling text, and 
 
 ![Project Screenshot](Assets/View.png)
 
-*Note: Replace `screenshot.png` with the actual path to your screenshot.*
 
 ## Technologies
 
-HTML, CSS, JavaScript (Font Awesome)
+HTML, CSS, (Font Awesome)
 
-## Setup
-
-1. Save `index.html` and `style.css` in the same directory.
-2. Open `index.html` in your browser.
 
 ## Structure
 
